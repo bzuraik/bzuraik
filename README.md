@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bzuraik
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning software engineering
+- 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking open to collaborate on great software ideas
 - 📫 How to reach me bzuraik@gmail.com
 
