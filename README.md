@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m open to collaborate on great software ideas
 - 📫 How to reach me bzuraik@gmail.com
-website: bahaazuraik.com
+- website: bahaazuraik.com
 
 
 <!---
