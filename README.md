@@ -3,7 +3,7 @@
 - 🌱 I’m currently a 4th Software Engineering Student
 - 💞️ I’m open to collaborate on great software ideas
 - 📫 How to reach me bzuraik@gmail.com
-- website: bahaazuraik.com
+
 
 
 <!---
