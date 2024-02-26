@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bzuraik
 - 👀 I’m interested in AI and Fullstack development
-- 🌱 I’m currently a 4th Software Engineering Student
 - 💞️ I’m open to collaborate on great software ideas
 - 📫 How to reach me bzuraik@gmail.com
 
